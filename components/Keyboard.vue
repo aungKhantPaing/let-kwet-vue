@@ -120,7 +120,7 @@
 
 <script lang="ts">
 import KeyCap from '@/components/KeyCap.vue'
-import { keycodes } from '@/assets/keycodes.ts'
+import { keycodes } from '@/assets/keycodes'
 import Vue from 'vue'
 
 export default Vue.extend({

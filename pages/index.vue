@@ -28,7 +28,7 @@
 <script lang="ts">
 // import Logo from '~/components/Logo.vue'
 // import VuetifyLogo from '~/components/VuetifyLogo.vue'
-import { keycodeToKey, keyToKeycode } from '@/assets/keymaps.ts'
+import { keycodeToKey, keyToKeycode } from '@/assets/keymaps'
 import Keyboard from '@/components/Keyboard.vue'
 import Vue from 'vue'
 
